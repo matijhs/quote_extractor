@@ -11,7 +11,10 @@ import java.util.List;
  * Break the input into sentences. Its tricky dealing with quotes, parentheticals and abbreviations.
  *
  * step2:
+ * Extract quotes/persons from sentences
  *
+ * step3:
+ * Assign persons to quotes
  */
 public class QuoteExtractor {
 
